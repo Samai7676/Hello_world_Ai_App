@@ -1,0 +1,99 @@
+{
+  "build": "hf865cc0_4_cpu",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libabseil * cxx17*",
+    "libabseil >=20250512.1,<20250513.0a0",
+    "libarrow 22.0.0 h117da51_4_cpu",
+    "libarrow-acero 22.0.0 h7d8d6a5_4_cpu",
+    "libarrow-dataset 22.0.0 h7d8d6a5_4_cpu",
+    "libprotobuf >=6.31.1,<6.31.2.0a0",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\samai\\anaconda3\\pkgs\\libarrow-substrait-22.0.0-hf865cc0_4_cpu",
+  "files": [
+    "Library/bin/arrow_substrait.dll",
+    "Library/lib/arrow_substrait.lib",
+    "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitConfig.cmake",
+    "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitConfigVersion.cmake",
+    "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitTargets-release.cmake",
+    "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitTargets.cmake",
+    "Library/lib/pkgconfig/arrow-substrait.pc"
+  ],
+  "fn": "libarrow-substrait-22.0.0-hf865cc0_4_cpu.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\samai\\anaconda3\\pkgs\\libarrow-substrait-22.0.0-hf865cc0_4_cpu",
+    "type": 1
+  },
+  "md5": "6c44b4c5d10c20d08059350e4be2a2c3",
+  "name": "libarrow-substrait",
+  "package_tarball_full_path": "C:\\Users\\samai\\anaconda3\\pkgs\\libarrow-substrait-22.0.0-hf865cc0_4_cpu.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/arrow_substrait.dll",
+        "path_type": "hardlink",
+        "sha256": "fcb05e1aeaa7ebdb25058bc51d90fd83892f1758f07be9216833656292086b42",
+        "sha256_in_prefix": "fcb05e1aeaa7ebdb25058bc51d90fd83892f1758f07be9216833656292086b42",
+        "size_in_bytes": 1161728
+      },
+      {
+        "_path": "Library/lib/arrow_substrait.lib",
+        "path_type": "hardlink",
+        "sha256": "2940cf7dc23e6f5a8ca45cab87cb93734884fa017fefd607d328637a0749eb72",
+        "sha256_in_prefix": "2940cf7dc23e6f5a8ca45cab87cb93734884fa017fefd607d328637a0749eb72",
+        "size_in_bytes": 111500
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "ced0d273f0a685aad3011f6e6ffaf23e28452510706ee886e060437492ea9b4a",
+        "sha256_in_prefix": "ced0d273f0a685aad3011f6e6ffaf23e28452510706ee886e060437492ea9b4a",
+        "size_in_bytes": 2536
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "b83e5fc126b7b720bee965a2d3d7d8b1d4939788de0a372fd34367d6990d05de",
+        "sha256_in_prefix": "b83e5fc126b7b720bee965a2d3d7d8b1d4939788de0a372fd34367d6990d05de",
+        "size_in_bytes": 2830
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "c383d21e1f606ad62f0b3844a330ae1ef954ad7f85f90a69aedd424eded326c0",
+        "sha256_in_prefix": "c383d21e1f606ad62f0b3844a330ae1ef954ad7f85f90a69aedd424eded326c0",
+        "size_in_bytes": 1062
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowSubstrait/ArrowSubstraitTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "811ac857837c0145cd6d46d0c39d5cf7ebd401f84fa4e19fa1223aa16f21fc73",
+        "sha256_in_prefix": "811ac857837c0145cd6d46d0c39d5cf7ebd401f84fa4e19fa1223aa16f21fc73",
+        "size_in_bytes": 4395
+      },
+      {
+        "_path": "Library/lib/pkgconfig/arrow-substrait.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/bld/apache-arrow_1763224995663/_h_env",
+        "sha256": "f5598eef145d81ae946d2c5bf5c12569efd4adfda0fa8f2cace6181c5239b50a",
+        "sha256_in_prefix": "26847ca5bf913588fc44fde7a6207127461d271d5e59b2c727321db1876ee09d",
+        "size_in_bytes": 1107
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0189bf49c4282bf52760b55d80a1968d7e798bc80f30bc497807d0bb68962944",
+  "size": 358564,
+  "subdir": "win-64",
+  "timestamp": 1763230991000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libarrow-substrait-22.0.0-hf865cc0_4_cpu.conda",
+  "version": "22.0.0"
+}

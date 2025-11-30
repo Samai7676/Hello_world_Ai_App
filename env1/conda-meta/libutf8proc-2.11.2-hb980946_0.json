@@ -1,0 +1,101 @@
+{
+  "build": "hb980946_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\samai\\anaconda3\\pkgs\\libutf8proc-2.11.2-hb980946_0",
+  "files": [
+    "Library/bin/utf8proc.dll",
+    "Library/include/utf8proc.h",
+    "Library/lib/cmake/utf8proc/utf8proc-config-version.cmake",
+    "Library/lib/cmake/utf8proc/utf8proc-config.cmake",
+    "Library/lib/cmake/utf8proc/utf8proc-targets-release.cmake",
+    "Library/lib/cmake/utf8proc/utf8proc-targets.cmake",
+    "Library/lib/pkgconfig/libutf8proc.pc",
+    "Library/lib/utf8proc.lib"
+  ],
+  "fn": "libutf8proc-2.11.2-hb980946_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\samai\\anaconda3\\pkgs\\libutf8proc-2.11.2-hb980946_0",
+    "type": 1
+  },
+  "md5": "405c392813b74f3df06276e99c0e2841",
+  "name": "libutf8proc",
+  "package_tarball_full_path": "C:\\Users\\samai\\anaconda3\\pkgs\\libutf8proc-2.11.2-hb980946_0.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/utf8proc.dll",
+        "path_type": "hardlink",
+        "sha256": "878b6a7aa42239ea72cd9169dfdc73d0594b0b690e5baca8f188bfc762fe5cdf",
+        "sha256_in_prefix": "878b6a7aa42239ea72cd9169dfdc73d0594b0b690e5baca8f188bfc762fe5cdf",
+        "size_in_bytes": 355328
+      },
+      {
+        "_path": "Library/include/utf8proc.h",
+        "path_type": "hardlink",
+        "sha256": "01620f1cd802a12aecdf5664ced3bc8147c19162c50d8019145462c6634ab9df",
+        "sha256_in_prefix": "01620f1cd802a12aecdf5664ced3bc8147c19162c50d8019145462c6634ab9df",
+        "size_in_bytes": 34049
+      },
+      {
+        "_path": "Library/lib/cmake/utf8proc/utf8proc-config-version.cmake",
+        "path_type": "hardlink",
+        "sha256": "c8e87f218e41870ffdb82d5378d3fb2f3e8cced2352318b8bc88cad2617354b5",
+        "sha256_in_prefix": "c8e87f218e41870ffdb82d5378d3fb2f3e8cced2352318b8bc88cad2617354b5",
+        "size_in_bytes": 2830
+      },
+      {
+        "_path": "Library/lib/cmake/utf8proc/utf8proc-config.cmake",
+        "path_type": "hardlink",
+        "sha256": "a401945675d546fdb49cce47ee5b2bbc1491b11e56d765470c168ad167f5bcf0",
+        "sha256_in_prefix": "a401945675d546fdb49cce47ee5b2bbc1491b11e56d765470c168ad167f5bcf0",
+        "size_in_bytes": 926
+      },
+      {
+        "_path": "Library/lib/cmake/utf8proc/utf8proc-targets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "43af0d5ba45975e65ee58b393d851385603631155000728565492179f4a3d162",
+        "sha256_in_prefix": "43af0d5ba45975e65ee58b393d851385603631155000728565492179f4a3d162",
+        "size_in_bytes": 934
+      },
+      {
+        "_path": "Library/lib/cmake/utf8proc/utf8proc-targets.cmake",
+        "path_type": "hardlink",
+        "sha256": "6cf837940a0f2fde6bf81610a524e10b149842fe406715e8c8b9624cf4bbbb8d",
+        "sha256_in_prefix": "6cf837940a0f2fde6bf81610a524e10b149842fe406715e8c8b9624cf4bbbb8d",
+        "size_in_bytes": 4240
+      },
+      {
+        "_path": "Library/lib/pkgconfig/libutf8proc.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/libutf8proc_1764061947434/_h_env",
+        "sha256": "bfe3c91459b8dea60ace1fb52f5f41346889c83624e68f35c3f5d6339f0f67e5",
+        "sha256_in_prefix": "5ce82201e8615b796a41c1e1865fcc0451acd36980cf14f3d02c925bf34c0dbd",
+        "size_in_bytes": 391
+      },
+      {
+        "_path": "Library/lib/utf8proc.lib",
+        "path_type": "hardlink",
+        "sha256": "acf04982b70f7587fff84235248d30fb76dcb21355ec9cdd2f317e1a7cc818ad",
+        "sha256_in_prefix": "acf04982b70f7587fff84235248d30fb76dcb21355ec9cdd2f317e1a7cc818ad",
+        "size_in_bytes": 8352
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "ff63a5e402fb5007174ea9796a210617da898a43d00b4e8a3192537cad0bd403",
+  "size": 89116,
+  "subdir": "win-64",
+  "timestamp": 1764062179000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libutf8proc-2.11.2-hb980946_0.conda",
+  "version": "2.11.2"
+}

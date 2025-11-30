@@ -1,0 +1,97 @@
+{
+  "build": "h2db994a_4_cpu",
+  "build_number": 4,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libarrow 22.0.0 h117da51_4_cpu",
+    "libre2-11 >=2025.8.12",
+    "libutf8proc >=2.11.0,<2.12.0a0",
+    "re2",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.3,<15",
+    "vc14_runtime >=14.44.35208"
+  ],
+  "extracted_package_dir": "C:\\Users\\samai\\anaconda3\\pkgs\\libarrow-compute-22.0.0-h2db994a_4_cpu",
+  "files": [
+    "Library/bin/arrow_compute.dll",
+    "Library/lib/arrow_compute.lib",
+    "Library/lib/cmake/ArrowCompute/ArrowComputeConfig.cmake",
+    "Library/lib/cmake/ArrowCompute/ArrowComputeConfigVersion.cmake",
+    "Library/lib/cmake/ArrowCompute/ArrowComputeTargets-release.cmake",
+    "Library/lib/cmake/ArrowCompute/ArrowComputeTargets.cmake",
+    "Library/lib/pkgconfig/arrow-compute.pc"
+  ],
+  "fn": "libarrow-compute-22.0.0-h2db994a_4_cpu.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\samai\\anaconda3\\pkgs\\libarrow-compute-22.0.0-h2db994a_4_cpu",
+    "type": 1
+  },
+  "md5": "8b416d4245113c42f37f024d75598efe",
+  "name": "libarrow-compute",
+  "package_tarball_full_path": "C:\\Users\\samai\\anaconda3\\pkgs\\libarrow-compute-22.0.0-h2db994a_4_cpu.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/bin/arrow_compute.dll",
+        "path_type": "hardlink",
+        "sha256": "651c591517138a0a9fda4c25b5733b29bc19741b03d80e02496938a0b3edb111",
+        "sha256_in_prefix": "651c591517138a0a9fda4c25b5733b29bc19741b03d80e02496938a0b3edb111",
+        "size_in_bytes": 8873984
+      },
+      {
+        "_path": "Library/lib/arrow_compute.lib",
+        "path_type": "hardlink",
+        "sha256": "99d9c954d8cb037f1c46c2d11b9c49d7ba13a010e6639e00ef96fe7191a3df02",
+        "sha256_in_prefix": "99d9c954d8cb037f1c46c2d11b9c49d7ba13a010e6639e00ef96fe7191a3df02",
+        "size_in_bytes": 173230
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowCompute/ArrowComputeConfig.cmake",
+        "path_type": "hardlink",
+        "sha256": "31aba536fc7e1c2c13a6732a8a62d93ee780b3278dc805b15b98a5bac9decab0",
+        "sha256_in_prefix": "31aba536fc7e1c2c13a6732a8a62d93ee780b3278dc805b15b98a5bac9decab0",
+        "size_in_bytes": 2403
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowCompute/ArrowComputeConfigVersion.cmake",
+        "path_type": "hardlink",
+        "sha256": "b83e5fc126b7b720bee965a2d3d7d8b1d4939788de0a372fd34367d6990d05de",
+        "sha256_in_prefix": "b83e5fc126b7b720bee965a2d3d7d8b1d4939788de0a372fd34367d6990d05de",
+        "size_in_bytes": 2830
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowCompute/ArrowComputeTargets-release.cmake",
+        "path_type": "hardlink",
+        "sha256": "981bcf85d9e7fdd731f3293364595d284f7f2479c8d2008c5ed2c1c790fdf9ca",
+        "sha256_in_prefix": "981bcf85d9e7fdd731f3293364595d284f7f2479c8d2008c5ed2c1c790fdf9ca",
+        "size_in_bytes": 1090
+      },
+      {
+        "_path": "Library/lib/cmake/ArrowCompute/ArrowComputeTargets.cmake",
+        "path_type": "hardlink",
+        "sha256": "d3bc22c3b89abf0a0707b87408f5dbefdcaaeed11cf19544f647bbd3a88919d0",
+        "sha256_in_prefix": "d3bc22c3b89abf0a0707b87408f5dbefdcaaeed11cf19544f647bbd3a88919d0",
+        "size_in_bytes": 4362
+      },
+      {
+        "_path": "Library/lib/pkgconfig/arrow-compute.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "C:/bld/apache-arrow_1763224995663/_h_env",
+        "sha256": "cdf5b3efe4902b3769dd9340e96bdab29de19801455b7b68db4cecfef8cc0b88",
+        "sha256_in_prefix": "d08e15eb283ce6ee8a823277b0c63edcb33aded65e5d6aeafec16ece54b448ab",
+        "size_in_bytes": 1091
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "63d6f8ccfaa61aaa3415d666e22ee12f3a2644068f4907656396cf0ea665d743",
+  "size": 1680370,
+  "subdir": "win-64",
+  "timestamp": 1763230549000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/libarrow-compute-22.0.0-h2db994a_4_cpu.conda",
+  "version": "22.0.0"
+}

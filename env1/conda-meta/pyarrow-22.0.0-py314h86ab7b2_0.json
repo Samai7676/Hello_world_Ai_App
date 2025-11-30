@@ -1,0 +1,37 @@
+{
+  "build": "py314h86ab7b2_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libarrow-acero 22.0.0.*",
+    "libarrow-dataset 22.0.0.*",
+    "libarrow-substrait 22.0.0.*",
+    "libparquet 22.0.0.*",
+    "pyarrow-core 22.0.0 *_0_*",
+    "python >=3.14,<3.15.0a0",
+    "python_abi 3.14.* *_cp314"
+  ],
+  "extracted_package_dir": "C:\\Users\\samai\\anaconda3\\pkgs\\pyarrow-22.0.0-py314h86ab7b2_0",
+  "files": [],
+  "fn": "pyarrow-22.0.0-py314h86ab7b2_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\samai\\anaconda3\\pkgs\\pyarrow-22.0.0-py314h86ab7b2_0",
+    "type": 1
+  },
+  "md5": "bf483b00a926179e1f4a8122c64f7a10",
+  "name": "pyarrow",
+  "package_tarball_full_path": "C:\\Users\\samai\\anaconda3\\pkgs\\pyarrow-22.0.0-py314h86ab7b2_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "pyarrow",
+  "sha256": "78c7195c8f4c853e8ff1948f5908af70d523a8d9e708879b47ee4f9a4808f0d7",
+  "size": 26652,
+  "subdir": "win-64",
+  "timestamp": 1761648406000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/pyarrow-22.0.0-py314h86ab7b2_0.conda",
+  "version": "22.0.0"
+}
